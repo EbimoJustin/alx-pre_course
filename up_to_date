@@ -1,0 +1,7 @@
+
+git add .
+git checkout -b update_script
+git checkout main
+git push
+git pull
+git commit -m "My personal work"
